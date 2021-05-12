@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+}
+div.iki {
+    border: 0px solid;
+    background-color: gray;
+   padding: 100px 0px 0px 0px;
+    height: 2cm;
+    width: 8cm;
+    position: fixed;
+  left: 0cm;
+  top: 0cm;
+    text-align: center;
+    
+}
+div.bir {
+    border: 0px solid;
+    height: 100pv;
+    width: 70%;
+    position: relative;
+    left: 15%;
+}
